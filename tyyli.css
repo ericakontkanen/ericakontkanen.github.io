@@ -9,5 +9,9 @@ header{
 nav a{
     font-size: 30px;
     display: inline-block;
-
+    color: #AB6D94;
+}
+nav a:hover {
+    color: #F6C7ED;
+    background-color: #EFECE9;
 }
