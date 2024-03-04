@@ -5,6 +5,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 header{
     background-color: white;
     color: #AB6D94;
+    
 }
 
 nav{
@@ -17,7 +18,7 @@ nav a{
     color: #AB6D94;
 } 
 nav a:hover {
-    color: #F6C7ED;
+    color:black
     background-color: #EFECE9;
 }
 
