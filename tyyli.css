@@ -30,7 +30,10 @@ img{
 }
 
 grid-kuva{
-    margin-left: 500px;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    
 
 }
 
