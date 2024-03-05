@@ -26,7 +26,6 @@ nav a:hover {
 
 img{
     width: 70%;
-    place-items: center;
 
 }
 
@@ -50,6 +49,14 @@ h1 {
 text-align: center;
 background-color: #AB6D94
 
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 
