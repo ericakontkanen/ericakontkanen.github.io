@@ -20,6 +20,7 @@ nav a{
     font-size: 50px;
     color: #AB6D94;
     text-decoration: none;
+    font-style: italic;
 } 
 nav a:hover {
     color:black;
