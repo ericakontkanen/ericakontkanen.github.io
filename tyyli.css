@@ -25,16 +25,16 @@ nav a:hover {
 }
 
 img{
-    width: 50%;
+    width: 70%;
+    place-items: center;
 
 }
 
-grid-kuva{
+png{
     display: grid;
     place-items: center;
     height: 100vh;
     
-
 }
 
 footer{
