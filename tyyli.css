@@ -32,8 +32,8 @@ grid-kuva{
 }
 
 footer{
-background-color:white
-/*bottom: 0;*/
+background-color:white;
+bottom: 0;
 text-align: center;
 width: 100%;
 position: Fixed;
