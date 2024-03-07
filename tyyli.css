@@ -1,5 +1,6 @@
 body{
 background-image: url("nainen2.png");
+background-image
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 0;
 }
@@ -69,6 +70,7 @@ padding-left: 10px;
 
 p {
 padding-left: 30px;
+padding-right: 10px;
 font-size: 20px;
 
 }
