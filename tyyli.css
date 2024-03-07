@@ -55,6 +55,15 @@ background-color: #AB6D94;
 
 }
 
+h2 {
+padding: 20px;
+
+}
+
+h3 {
+padding: 20px;
+
+}
 figure {
     display: flex;
     justify-content: center;
