@@ -1,3 +1,4 @@
+/*määritellään taustakuva, fontti sekä marginaali sivulle*/
 body{
     background-image: url("taustakuva.png");
     background-image
@@ -5,9 +6,9 @@ body{
     margin: 0;
 }
 
+/*vaihdetaan ylätunnisteen ulkoasua*/
 header{
     background-color: white;
-    opacity: 0,8;
     color: #AB6D94;
 
     
@@ -31,19 +32,15 @@ nav a:hover {
     background-color: #EFECE9;
 }
 
+/*Vaihdetaan kuvan kokoa*/
 img{
     width: 75%;
 
 }
 
-png{
-    display: grid;
-    margin-top: auto;
-    place-items: center;
-    height: 200vh;
-    
-}
 
+
+/*Muokataan alatunnistetta*/
 footer{
     background-color:white;
     bottom: 0;
@@ -70,6 +67,7 @@ h3 {
 
 }
 
+/*Muokataan tekstin asettelua*/
 p {
     padding-left: 30px;
     padding-right: 20px;
@@ -83,6 +81,4 @@ figure {
     height: 160vh;
     margin: 0;
 }
-
-/* asedrftgy */
 
