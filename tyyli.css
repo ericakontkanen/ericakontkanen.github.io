@@ -27,17 +27,19 @@ nav a{
     text-decoration: none;
     font-style: italic;
 } 
+
+
 nav a:hover {
     color:black;
     background-color: #EFECE9;
 }
+
 
 /*Vaihdetaan kuvan kokoa*/
 img{
     width: 75%;
 
 }
-
 
 
 /*Muokataan alatunnistetta*/
@@ -50,17 +52,20 @@ footer{
 
 }
 
+
 h1 {
     text-align: center;
     background-color: #AB6D94;
 
 }
 
+
 h2 {
     padding-left: 20px;
     font-size: 25px;
 
 }
+
 
 h3 {
     padding-left: 17px;
@@ -73,6 +78,7 @@ p {
     padding-right: 20px;
     font-size: 20px;
 
+/*Siirretään kuva keskelle*/  
 }
 figure {
     display: flex;
